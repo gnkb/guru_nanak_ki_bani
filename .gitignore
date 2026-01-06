@@ -1,0 +1,21 @@
+# Hugo generated output
+/public/
+resources/_gen/
+
+# Hugo cache
+hugo_cache/
+hugo_stats.json
+
+# Node / npm artifacts (if using npm for assets)
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor temp files
+*.swp
+*.swo
+
+.hugo_build.lock
+

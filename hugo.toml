@@ -1,0 +1,24 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-gb"
+title = "Essays on Sikhism"
+theme = "hugo-book"
+
+enableRobotsTXT = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  BookLogo = "images/site-title.png"
+  description = "Essays exploring Sikh philosophy and practice"
+  author = "Sujan Singh"
+  ShowReadingTime = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+  defaultTheme = "light"
+  disableThemeToggle = true
+  bookSection = "essays"
+  bookToC = true
+  bookMenuBundle = "/menu"
