@@ -23,7 +23,7 @@ draft: false
 <br>
 </div>
 
-INTRODUCTION
+# INTRODUCTION
 
 Guru Essence of Guru Nanak's Jap Ji Saheb BY Sujan Singh Nanak Dev Ji, the founder of Sikh religion, was born at Nankana Sahib (formerly Rai Bhoe Ki Talwandi), now in Pakistan, on the full moon night of October- November 1469 A.D. Modern historians now cite the actual date of birth of Guru Ji as April 15, 1469 A.D. Guru Nanak Dev was born at a time when conditions of society in India had deteriorated to the lowest level. Guru Ji has described the extent of degradation in many of his shabads enshrined in holy Guru Granth Sahib Ji, the holy granth (book) of Sikh religion. Guru Ji said that the king (Ibrahim Lodhi) was the epitome of greed; his prime minister was the sinner and his finance minister was the embodiment of lies. The ladies of the harem were king’s counsellors. The illiterate public was the mute witness to the king’s misdeeds and turned their blind eyes and deaf ears to whatever the king and his courtiers were doing. At another place, Guru Ji said that the judges did not deliver their justice unless their palms were greased with some money. After the defeat of Ibrahim Lodhi by Babar, Guru Ji described Indians as flocks of sheep, which were not protected by their Lodhi masters from Babar’s atrocities. The causes of degradation of Indian society were the prevailing caste system at that time and exploitation of common people by Brahmins through the maze of religious rituals. One of the important aspects of Guru Ji’s mission was to bring reformation in the society by getting rid of these rituals. At the age of nine years, Guru Ji inflicted the first blow on these rituals when he refused to wear the sacred thread from his family Brahmin.
 
@@ -39,9 +39,8 @@ Guru ji’s last tour was from 1518-1521 A.D.. In this tour, Guru Ji’s mission
 
 During his missions, Guru ji spread his philosophy of one God, purification of soul by doing good deeds, recitation of NAM and sharing of wealth with the poor. Guru ji preached against the practice of following futile rituals in the name of religion and converted many kings, landlords, scholars, saints, pirs and common people to his faith, later named as Sikh faith or Sikh religion. After his travels, Guru Ji settled at Kartarpur from 1521-1539. It was here that Guru Ji wrote Jap Ji Sahib. Guru Ji breathed his last on September 7, 1539 when the eternal light merged with divine light.
 
- 
+<font size="2">*Jap Ji Sahib Steek, Singh Brothers, Mai Sewan, Amritsar, Punjab, India.152 pp.</font>
 
-*Jap Ji Sahib Steek, Singh Brothers, Mai Sewan, Amritsar, Punjab, India.152 pp.
 
 There are conflicting opinions about the time when Guru Ji wrote Jap Ji Sahib. The general belief among Sikh followers is that Guru wrote Jap Ji Sahib after emerging from waters of a rivulet near Sultanpur Lodhi, Punjab during the year 1507. Jap Ji Sahib represents the central theme of Guru Ji’s BANI and thus appears to have been written during Guru Ji’s last days of life. Guru Angad Dev Ji (then Bhai Lehna Ji), the second guru of sikhs, came to Guru Ji during 1532 A.D. He was a great scholar who invented Punjabi language alphabets. A view is also expressed that Bhai Lehna Ji was asked by Guru Ji to write a synopsis of Guru Ji’s BANI for reciting as a morning prayer by Sikh devotees. Prof. Sahib Singh (1973)  does not support this view as Jap Ji Sahib has its own theme around which this BANI is woven. Prof. Sahib Singh’s view that Guru Ji wrote Jap Ji Sahib in solitude during Guru Ji’s stay at Kartarpur appears more acceptable.
 
@@ -51,29 +50,20 @@ In order to understand the philosophy of Jap Ji Sahib, it is imperative that we 
 
 In this book, Gurbani is written in Roman script. A key is given for the correct pronunciation of the vowels used in Gurbani of Jap Ji Sahib reproduced in this book. However, Nanak is written with a single ‘a’ though Guru Ji’s name is spelled as Naanak.
 
-        A key for vowel pronunciation
+    A key for vowel pronunciation      
+    A: as ‘u’ in but.    AA: as ‘a’ in car.    E: as ‘a’ in take.    EE: as in f      
+    I: as in sit.        O: as in core.        OO: as in root.       U: as in put             
+    AI:as a in pack
 
-        A: as ‘u’ in but.    AA: as ‘a’ in car.    E: as ‘a’ in take.    EE: as in feel
-
-        I: as in sit.          O: as in core.        OO: as in root.      U: as in put           
-
-        AI:as a in pack
-
-
-
-The Essence of Guru Nanak Dev Ji’s Jap Ji Sahib
+# The Essence of Guru Nanak Dev Ji’s Jap Ji Sahib
 
 Jap Ji Sahib is the essence of entire Guru Granth Sahib, the holy granth (book) of Sikh religion. The essence of Jap Ji Sahib enshrines the basic philosophy of Sikh religion. Jap Ji Sahib consists of two slokas and 38 Pauree. One sloka is in the beginning and the other sloka is at the end of Jap Ji Sahib. Jap Ji Sahib is preceded by the definition of God and God’s salient attributes by which He can be identified.
 
-
-
-IKOANKAAR
+# IKOANKAAR
 
 Jap Ji Sahib starts with the word ‘Ik Oankaar’, which may be spelled as Ikonkaar, Ikomkaar or Ikamkaar. It consists of three parts. These are’ Ik’, Oan and Kaar. Each part has a deep, spiritual meaning. The whole word is the Beej mantra (origin principle) of Sikh religion in Sikh tenets. It defines God. It illustrates the basic concept of God, conceived by Guru Nanak Dev Ji, the first guru and founder of Sikh religion. All the three parts define separately different aspects of concept of God.
 
-
-
-IK
+## IK
 
 ‘Ik’ means one. Here ‘Ik’ defines God when He had not created the universe as yet. He was one and the only one at that time. He was in himself. There was no universe, no suns, no planets, no satellites, no living or non-living creatures, no good or bad deeds, no light, no days or nights. In fact there was total darkness at that time. God had not created in Himself His own powers, including the power of creation and the power of destruction.  He was thus devoid of any characteristics or any qualities. He was in Himself. He was one and only one. There was darkness and darkness all around. The ancient Hindu books describe this period, when God was one and only one, extending to 36 yugas (one yug is variously described as 1000 years, 10, 000 years or even more). This Ik describes that state of God. It is also named as Nirguna state, the state when God had not acquired His powers by Himself or the state when God did not use His power to create.
 
@@ -83,82 +73,75 @@ Strangely enough, science, also explains the state of universe prior to Big Bang
 
 According to Guru Nanak Dev Ji, all creations were into God when God was in Nirguna state. Tenth guru of Sikhs, Guru Gobind Singh Ji also said that when God attained creative powers, He created the entire universe, the living and non-living, the planets and suns, the galaxies and thus the universe. But when at any moment, God would like to destroy His creation; all created would go into Him.
 
+## OM OR OAN
 
-
-OM OR OAN
 Second part of ikoankar is ‘Om’ or’Oan’. Literal meaning of ‘Om’ is ‘it exists’ or so be it or Amen. In ancient literature, the word ‘Om’ is equated with God. It is stated to be worshiped like God, to be repeatedly uttered like God. Guru Nanak Dev Ji has also used Om indicating God. It is used to depict existence of God. In fact, the word ‘Om’ is used to indicate the way God exists.
 
 When God desired to create the world, He came out from Nirguna (without any qualities or characteristics) to Sarguna state (having acquired all His qualities). Thus ‘Om’ depicts God’s Sarguna state. In Surguna, Guru Nanak Dev Ji recognizes God in three forms.
 
-1.  He is inaccessible
+### 1.  He is inaccessible
 
 It is beyond conception of any living being to know where God actually lives. No body can reach Him. A created one with a physical existence is unable to visualize the exact abode of his creator when the creator is beyond any physical existence. A human being can conceive things around him with the help of his five senses of perception i.e. the sense of hearing, sense of seeing, sense of smelling, sense of tasting and sense of touch. None of these senses are capable of reaching up to God. God in that state cannot also be described in words. Worldly things do not affect him. He is purest of the pure. He is somewhere beyond this universe, beyond any cosmic world if it exists. Yet He is the lord of the entire universe, the master of the entire world. He controls His kingdom, the kingdom of this universe or any cosmic world beyond this universe. Every thing exists through His will. If at any time, He desires to destroy His creation, He would do it in a fraction of a second. The entire universe exists at the mercy of God.
 
-2. He is omnipresent
+### 2. He is omnipresent
 
 This is His second mode of existence. In spite of being inaccessible, His existence is evident in everything created by Him, both in animate and  inanimate creation. When God acquired in Himself by Himself the quality of creation, He created the universe. He created galaxies, stars, planets, satellites, moons, and all living beings on earth. He created micro-organisms, plants, insects, animals, land, oceans, and mountains. He created man, the master of all other creatures on earth. When God created the Universe He bound them all under certain fixed principles. Sikh’s fifth guru, Guru Arjan Dev Ji states that all the creation created by God is bound by certain fixed principles and these principles work under the divine command of God. Nothing is created haphazardly. Everything is created under some principle and these principles are strictly obeyed, both by living and non-living beings under His divine command, described as HUKAM by Guru Nanak Dev Ji. If the wind blows, it blows under some principle. Similarly, as Guru Nanak Dev Ji states, the rivers flow, the fire works, the earth bears the weight of everything on it, the revolution of moon around earth, earth around sun and sun around other suns in its galaxy all work on some fixed principle under His divine command. If any created one tries to disobey His divine command, there would be total destruction. Everything will finish in no time.
 
 For a moment, if we consider that the earth changes its course around sun just by a few centimetres, everything on earth will perish. The moon will perish and with that the other planets revolving around our sun would loose their balance. Thus everything in this universe is continuously revolving around some other thing under a fixed principle, under the divine command (Hukam) of God. All their movements work on more or less same principle, be it a sun, earth, moon or a tiny electron revolving around protons and neutrons. They are all governed by a fixed principle. If that principle is disturbed; havoc ensues. Just imagine displacement of a few electrons from uranium atom enabled scientists to make an atomic bomb with immense energy stored in that. Then imagine, how much energy is stored in revolution of earth around sun, or moon around earth. If somehow, this energy or a part of it were released, what havoc would it cause? It will bring with it total destruction. Thus there lies the caution that we should obey the nature and through it, obey the divine command of God. We should not disturb nature. Disturbing of nature amounts to disobeying the divine command of God, the HUKAM of God. Therefore it is the fear of God’s divine command that nature is working with His fixed principles. This fear exists in every thing, living and non-living, every electron, positron, neutron, wind, water, fire, mountains, oceans, stars, planets, satellites. It is this fear through which God exists in every thing, living and non-living,  created by Him. He is thus omnipresent. He exists in everything He created through His divine command. For  example every country has its own constitution to govern his people. They enact laws. No man can dare to kill another man under the fear of the law of his land. If he does kill, he himself is destroyed. He meets his fate of disobeying the law. In the same way, in a broader perspective, disobeying God’s principle of creation would bring havoc, self-destruction of us humans. We will destroy ourselves under His divine command. God therefore exists in His creation in the form of His HUKAM, His divine command which none can dare to disobey. He is thus omnipresent.
 
-3. He is within every human being
+### 3. He is within every human being
 
 His light, His principles of goodness is enshrined inside every living being. Guru Nanak Dev Ji states that after creation of humans, God incorporated in them His own self, His NAAM, His characteristics to act as a judge to analyse good or bad, to guide us humans to clear our souls from sins committed in past and present life and to cleanse our soul of all that had converted it from transparent to opaque. At another place in holy Guru Granth Sahib, Guru Nanak Dev Ji says that God’s holy light within us guides us to spend our lives in a righteous way by washing out our sins through doing good deeds. Only good deeds can take us to the door of God. God’s NAAM, His characteristics, enshrined in us guides us to analyse what is good or bad. It is our inner self,  our subconscious mind, our CHETNA which is a part of God’s self. Thus God lives in every human being in the form of His light, CHETNA or His guiding principle, which He enshrined in us while creating us. Whenever we go astray, our inner self, which is a part of God’s self, guides us towards right path. Whenever we do some sin, our inner self rebukes us and forbids us not to commit sin. If in spite of this guidance, we still commit a sin then that becomes our destiny. We will have to suffer for that sin in our life at one time or the other. We commit sin only when we ignore His guidance, ignore our inner voice or suppress our inner self. As an example your child makes a mistake. You slap him on his face. The child weeps. Your inner self warns you that you have committed a wrong doing. You at once realise your mistake and abide by the guidance given to you by your inner self. You love the child. Your child becomes happy. You experience happiness in your inner self. You have ultimately obeyed God’s divine command enshrined within you and you feel eternal happiness. In the same way, if we work under the command of our inner self, which is a part of God, we would elevate our self to higher heights. We will cleanse our soul. We will not hate others. We would love everybody.  We would not come under the hold of false pride. We will not be perturbed by physical troubles. We will not hurt others’ feelings. We will not tell lies for our petty gains. We will lead an honest, truthful and righteous life.
 
 So ‘Om’ in ‘Ikoankar’ stands for Sargun state of God who is inaccessible to any living being but is present in His every living and non-living creation in the form of His divine command and  exists within every human in the form of His light or guiding principle or NAM which at every moment analyses our deeds, good or bad.
 
-                                             
+## KAAR
 
-KAAR
 The last part of ‘Ikoankaar’ is ‘Kaar.’ ‘Kaar’ means ‘only’, only one. Ik denotes God’s state before creation. When he was one and only one. ‘Om’ after creation. ‘Kaar’ means, he remained only one even after creation. He remained only one even after being present in all living and non-living ones created by Him. He does not distribute His duties to others. He is the only supreme being. He is the only one who created everything.
 
 To sum up, the Beej mantra, the origin principle, ‘Ikoankaar’ means that God was one before creation, remained only one after creation, He is unapproachable, is omnipresent and is also present within every human being. In spite of His presence in each and every one of us, in animate and inanimate things, He remained one and only one.
 
 After ‘Beej mantra,’ the origin principle, Guru Nanak Dev Ji writes various attributes of God, which are named as ‘MOOL MANTRA,’ the fundamental principles of Sikh religion in Sikh tenets.
 
-MOOL MANTRA
-Sat Naam Kartaa Purakh Nirbhau Nirvair Akaal
-Moorat Ajoonee SaiBhang Gur Prasaad Jap…
+    MOOL MANTRA
+    Sat Naam Kartaa Purakh Nirbhau Nirvair Akaal
+    Moorat Ajoonee SaiBhang Gur Prasaad Jap…
+
 From ‘Sat Naam’ to ‘Saibhang’ is the MOOL MANTRA, the fundamental principle. In fact, most of the hymns written by Sikh gurus and other saints in sacred Guru Granth Sahib either explain or revolve around the ‘MOOL MANTRA.’ ‘MOOL MANTRA’ is explained in detail in some of the hymns. The ‘MOOL MANTRA’ explains principle qualities of God by which He is identified. Nobody knows the form of God in which He exists as nobody can reach Him. Nobody has even seen Him. Nobody knows His place of abode. Some religious books do describe God as a human incarnation but that would be greatly belittling God. God cannot be a human like, as anything in physical form will ultimately perish. God is everlasting. He cannot perish. To think Him in some physical form thus amounts to lowering His stature. But God can be identified by His powers, His qualities, His characteristics, which can be experienced from His creations. An artist copies a picture, paints it and gives it a shape, which is very close to the original picture. The viewer compares the picture with its original and praises the artist to the extent his art is depicted. The viewer has not seen the artist. He has seen the picture made by the artist. After seeing the art, the viewer forms his views about the personality, art and behaviour of the artist. A psychologist would judge the character of the artist after seeing the picture. An art critic will judge his art. A humanist will see some human touch of the artist in the picture. A behavioural scientist will try to judge about the moods of the artist after seeing the picture. If we take the opinions of all these specialists, we can have sufficient knowledge about the personality of the artist though nobody has seen the physical being of the artist. Similarly, our knowledge about God is based upon His qualities, His characteristics, and His deeds seen through His creations. Guru Nanak Dev Ji described salient fundamental attributes of God in MOOL MANTRA. That is why this portion of Jap Ji is named as MOOL MANTRA.
 
 ‘SAT NAAM’ is the first word of MOOL MANTRA, the fundamental principle. Sat means truth, Naam means name. Thus meaning of SAT NAAM is ‘God, thy name is Truth.’ This is compound word consisting of two separate words,  ‘SAT and  ‘NAAM.’
 
- 
+## SAT
 
-SAT
 Sat means Truth. Anything described in entirety as it had been seen is called truth speaking. But if something is described contrary to what has been seen is falsehood. Truth does not change in size, spirit, words, form etc. False hood is changeable. It can be stretched to any size. The words can be changed. The meaning can be changed. Thus falsehood does not have any foundation. It cannot last forever. Some day or the other, it will be destroyed by truth. Truth cannot be destroyed but can only be suppressed for a period of time. Ultimately it prevails and destroys the falsehood.
 
 There are some universal truths, which cannot be suppressed by falsehood. The sun rises in the east and sets in the west. The earth revolves around its axis and around sun. The moon revolves around earth. The electrons of an atom revolve around atomic nucleus. One who is born would surely die one day. God is one, the only one, who has created the universe. These are some of the universal truths.
 
 Existence of God is a universal truth. Whatever exists has to be given a name and Guru Nanak Dev Ji has given God a new name, SATNAAM, OH God, thy name is truth. As God’s existence is truth, His name is also truth.
 
- 
+## NAAM
 
-NAAM
 Naam means NAME, a word by which a thing or a person is identified. When somebody’s name comes to our mind, details of his physical being and his character flashes along with his name. We at once remember the structure of his body when we try to remember his name. How tall he is. What type of complexion he has got. How he keeps his hair, ties his turban, dresses his beard. What type of dress he wears. Whether he has long, medium or short nose, broad or narrow forehead, blue or black eyes, broad or narrow chest. In fact all the details of his physical being flash into our mind along with his name. But this type of identification does not apply to God as He has no physical being, or physique of any kind. Any physical being is bound to age and die one day. God is everlasting. He is beyond death and life. He cannot, therefore, be identified by any physical characters.
 
 Another details of any persons associated with his name are his character, his habit, his behaviour, his knowledge and his other characteristics associated with his spiritual being.  We know him by knowing the details about him such as he always tells the truth, he helps others when in need, he is a great sympathizer of the poor or down trodden.  He never flies into violent anger.  He is humble and loves everybody and so on.  On the other hand a wicked person is identified by his violent temper, abusive language, deceiving others, telling lies, devoid of sympathy for the poor, down trodden and sick etc.  Similarly we know the qualities of God.  He is creator of the Universe.  He does not do injustice to any of his created ones. He is a benevolent master; He gives everything equally to rich or poor, wise or fool, good or bad men.  He has given us the sun to give energy, the moon to give moonlight, the earth to live, air to breathe, water to drink and all these boons are showered on us without caring for caste and creed, rich or poor, high or low.  He has given us innumerable bounties like trees for wood, shade and fruits, crops for our sustenance, rains to water our fields, stars and moon to shine at night and above all a beautiful body with two hands, two legs, two ears, two eyes, a mouth, tongue and above all a brain with consciousness to control our body and to control all other creatures on this earth.  So God is identified by His powers, His bounties, His rule of justice, and His control of the entire Universe.  So God needed to be given a name.  As all His qualities, His powers, His bounties are everlasting, Guru Nanak Dev Ji gave God a new name, SATNAM, O God thy name is Truth.
 
 Before Guru Nanak Dev Ji, God had been given thousands of names based on His one power or bounty.  In ancient books, God’s first name was probably BRAHAMA, which means the creator.  He is also named as PARMATMA meaning supreme soul. Other names used for God include Almighty, Eternal, Primal, Immaculate, Immortal, Giver, Benevolent, Bestower, Agam (inaccessible), Agochar (beyond senses of perception), Achut (firm), Apaar (limitless), Avenaasee (indestructible), Alakh (cannot be explained), Waaheguru (supreme teacher), Creator, Swami (master), Hari, Allah, Thakur (master), Prabhu (supreme master), Preetam (loved one), Bhagat Vachhal (who loves His devotees), Parmeshvar (supreme deity), Ram (omnipresent), Raheem (having mercy on all), among thousands of others.     As the times changed, a ruler or emperor used to be considered as an agent sent by God to rule the land.   Good, ideal and merciful Kings are therefore considered as incarnations of God as they possessed God like qualities.  They ruled the land without discrimination of rich or poor, landowners or land less.  Not only on ruling but as persons also, they had high moral characters.  They did justice irrespective to the position of a person.  They spent their treasure for the benefit of their subjects.  They fought the cruel Kings and defeated them thus liberating their subjects from their cruel rules.  They sacrificed their lives for the good of mankind.  They proved themselves as ideal brothers, sons, husbands and fathers.  Such kings were in real sense incarnation of God, as they possessed God like qualities.  Thus they were rightly worshiped as God.  Lord Ram and Lord Krishna come under these categories.  A large number of God’s name originated from various good deeds done by these kings.  Each name is based on one particular good deed done by each of those Kings.  Ten such God incarnations are recognized in Hindu mythology.  These are MCHH, KACHH, VARRAH, NARSINGH, VAMAN in SATYUGA, PURSHURAM and RAM CHANDRA in TREATA YUGA, KRISHNA in DUAPAR YUGHA, BUDHA and KALKI in modern KALYUGA.  God incarnations, which were identified later on, were VARDHMAN MAHAVIR and later Sikh’s ten gurus.  All these God’s incarnations have in fact become the names of God.  All these names depicted one or a group of God like qualities, they do not identify God in its entirety.  Guru Nanak Dev Ji thus selected SATNAM as the name of God as this word depicts the qualities of God in their entirety and also depicts that these qualities are everlasting or truth (SAT). Guru Arjun Dev Ji has sermonized in His hymns that all other names of God are based on one or the other specific deed of God’s incarnations but SATNAM is God’s fundamental and eternal name.
 
- 
+# KARTAA PURAKH
 
-KARTAA PURAKH
 “Karta Purakh” follows Satnam in the MOOL MANTRA.  Kartaa means the Creator and Purakh means he who is omnipresent.  Purakh is also sometimes used as “being” or  personality” or man.
 
-KARTAA
+## KARTAA
+
 Kartaa is used for God, as He is the creator of the Universe. God created the universe under sound principles, which are set to work automatically.  He is the creator, a quality that no other being in this universe can possess.  We, the humans create small things, which last for a specific time.  The manufacturers of these created objects give guarantee to run satisfactorily for certain number of years, say 4-5 years.  After a few years, wear and tear reduce the life span of that object.  For example, a fridge is guaranteed to run for five years, a cycle for two years and so on.  God created universe, which is working for the last 15 billion years and is supposed to work for millions of more years.  The earth will continue to revolve around sun and around its axis for millions of years to come.  Iron is iron, gold is gold, silver is silver and these would remain so for millions of years.  One element would never jump to become another element even nearest to it in periodic table.  The mixture of gases: nitrogen, oxygen and carbon dioxide in the air is of same percentages for last millions of years and would remain the same for millions of years to come.  Similarly, the phenomenon of falling of rain, snow, the blowing of winds, storms, and all other environmental forces are working with the same principle for last millions of years and would continue to do so for millions of years to come.  God is thus a creator of different type.  He creates everything in such a way that the creations work automatically without any assistance from any quarters. 
 
 Similarly God created life under set principles.  Life emerges from fertilized eggs in almost all living beings.  Egg from one sex unites with sperm of the other sex and life starts.  This process is similar from lowest to the highest animals.  There are differences in development of embryo from fertilized eggs.  In some cases, fertilized eggs develop inside the female body and in other may develop outside the female body.  But the whole process remains same.  Within a species, the processes are strikingly similar.  God thus created life with set principles and made the process so  automatic that no interference is necessary.  Life in plants starts from seed, any seed automatically grows into a plant.  This phenomenon exists for millions of years and will continue to work for millions of more years.  God is thus a creator who established a system for His creation and the creation there after worked automatically.  Guru Nanak Dev Ji thus described the quality of creation to God, the quality which no other being can acquire.  Scientist may discover the technicalities of this system, may discover it in detail but cannot subvert this system.  If ever, science would try to subvert any part of this system, the whole system would collapse and man will destroy himself because God is the only creator, He would remain the only one who created this system.  Any interference with this system may bring total destruction.
 
-
-
-PURAKH
+## PURAKH
 
 Guru Nanak Dev Ji puts the word Purakh after Kartaa, which means that God is Purakh, a being having His own identity and personality.  As stated earlier, God has no physical being.  We know him by His qualities and powers.  If someone has qualities and powers, he must be a being. It is not known what type of “being” God is.  In fact it is beyond human powers to know in what form God exists.  Some say, it is like a human.  Humans inhabit this planet earth.  What about other billions of planets, which may have life on them?  What form of life that is?  Nothing is known.  To say God is like humans is to minimize the importance of God.  Some say God is light.  What type of light would it be?  We see light emitted only from our sun.  There are millions of suns.  What type of light are they  emitting?  Nothing is known.  God is a being, He has personality of His own but it is beyond any human conception to identify the form from which His identity can be determined.  So Guru Nanak says that God is creator, and being creator, he is a PURAKH or He has a personality or identity of His own.
 
-
-
-Nirbhau
+## Nirbhau
 
 Bhau means fear and Nir means without . Nirbhau means fearless, without any fear.  Guru Nanak Dev Ji identifies God with another attribute.  He is fearless.
 
@@ -166,65 +149,53 @@ Physical fears are of two types; personal fear and community fears.  Personal fe
 
 Fears about our ethereal selves are many.  What will happen to us after death?  In what type of life, our reincarnation would be? Etc etc.  These types of fears tend to always haunt us human beings throughout our lives.  Now God has no physical being.  So He has no fears in that respect.  At ethereal level, God is the creator of this system.  He has no rival.  Nobody is there to compete with Him.  So God has no fears at that level  but every object created by God is under the fear of God.  Thus God is fearless, He is Nirbhau and He runs His system fearlessly.
 
-
-
-NIR VAIR
+## NIR VAIR
 
 Guru Nanak Dev Ji identifies God with yet another quality. He is Nirvair, which means without any enmity. God runs His system with enmity to none. Every creation of His enjoys His blessings without any discrimination. The sunlight falls equally on good or bad, on trees, mountains, seas, and humans alike. He does not discriminate. If He has bestowed two eyes to all humans, He has bestowed two eyes to other animals also. He has no enmity, no enemies. His blessings are showered equally on all of His creations.
 
 Some humans are black, some white, some born poor, some rich, some born kings, some paupers, some absolutely fit, some disabled. We humans blame God. They say that He is not doing justice by creating all these contradictory creations. No, He is not to be blamed. He has created a system that good deeds would always pay and bad deeds punish . All these contradictions in His creation are due to our good or bad deeds done not only in this life but in many past lives also. God’s system works perfectly. Our soul carries with it our good and bad deeds and these deeds decide our birth, our prosperity, and our well-being.  His system works perfectly. He does not discriminate. His justice is real and final. He does not consult anyone while delivering His justice. He is truly Nirvair, without any enemies and without any enmity to anything among His creations.
 
-
-
-AKAAL MOORAT
+# AKAAL MOORAT
 
 The next attribute of God identified by Guru Nanak Dev Ji is that He is Akaal Moorat. Kaal means time, akaal means that who is not under the influence of time. Moorat means a form, shape, or mode of existence or mode of manifestation.        
 
-AKAAL
+## AKAAL
 
 God is not under the influence of time. How can He be under the influence of time when He created time and space. Everything created by God is under the influence of time. We live for certain amount of time. The plants, animals are all under the influence of time. In fact, sun and moon are the prophets of time, says Guru Nanak Dev Ji. Time on earth is created by the sun, and the moon in some case. The earth revolves around its axis and days and nights are formed. The total period of days and night are the basic units of time. These are further divided into hours so that one day and one night together comprise 24 hours. Then hours are divided into minutes and minutes into seconds. Day and night combinations are grouped to form months, months to years, years to centuries and so on and thus the time is created. On some other planets, supporting life, there will be different basic units of time. God created time and we devised methods to measure the time. The creator of time is beyond the influence of time. So God is akaal moorat, a being not coming under the influence of time. Guru Gobind Singh Ji has sermonized that time is playing life and death game on this planet earth. Time created Brahma, Vishnu, Mahesh and all other gods and all demons and the entire universe But God who is one and only one prophet from the beginning and upto the end of this time is not under the influence of time. Guru Ji further says that same God is his guru.
 
-
-
-MOORAT
+## MOORAT
 
 Moorat means form, shape, guise, and mode of existence or manifestation. When God is a Purukh He must have some form, shape, hue, colour or picture. As God is inaccessible, nobody has seen Him. Without seeing Him, it is not possible to visualize His form, shape, colour or complexion. Only symbol by which we can know or experience the existence of God is His supreme command enshrined in us. In Pauree-21 of Jap Ji Sahib, Guru Nanak Dev Ji describes God’s moorat as supreme beauty and His mood as in eternal bliss. In the Holy Scriptures of Guru Granth Sahib Ji, Guru Ji states that God’s form is depicted by His creation and that God has thousands of eyes, tender feet, forms and noses but God has none of these of His own. Guru Ji further says that he is charmed when he sees this magic of God. God exists as a divine command or divine light in all the human beings. However He is not influenced by time as with the death of our physical being, that divine light merges with its source. Thus God is beyond the influence of time but He has His own form or identity. He is thus Akaal moorat.
 
+## AJOONEE
 
-
-AJOONEE
 Ajoonee is that which does not take birth or is without any birth or is free from cycle of deaths and births as death comes only to those who are born. Ajoonee means devoid of birth and death cycle. God has no physical being. So He does not take birth. He is beyond any birth and death cycle. He is not born. God has created the birth and death cycle for all of us. One who is born will certainly die one day But God has kept Himself above this death and birth cycle. God is thus Ajoonee.
 
-SAI BHANG
+## SAI BHANG
+
 Sai means ‘by himself’. Bhang means ‘to be’. When God is not born, then how did He come to existence. Guru Nanak Dev Ji says that God created Himself. Nobody created Him. He Himself was in ‘Nirguna State.’ He Himself acquired all qualities and powers and came from Nirguna to Sarguna state. Nobody created Him. He is above all His creation, so nobody could create Him. He created Himself. He is ‘swaim bhu’ meaning that He is by Himself. He created Himself.
 
 Thus after describing God in his beej mantra (origin principle), Guru Nanak Dev Ji identified God by assigning Him His divine qualities called the MOOL MANTRA or the basic principle in Sikh tenets.
 
 To summarise, the MOOL MANTRA is that God is the creator and has personality of His own. He is fearless. He is without enemy or enmity. He is not under the influence of time but He has moorat or form of His own. He is not under the cycle of birth and death and He created Himself.
 
-
-
-GUR PRASAD
+## GUR PRASAD
 
 Guru Nanak Dev Ji then adds the words Gur Prasad after the MOOL MANTRA, which means that you need the blessings of your Guru, your teacher to understand God.
 
-JAP
+## JAP
 
 Jap means to be repeatedly recited. This is the name of Guru Nanak Dev Ji’s writing (BAANEE) called JAP JI. This BAANEE is to be repeatedly recited every day; every morning as the BAANEE is written about God, about our creator. Repeated recitation thus amounts to repeatedly praising God.
 
 Before starting this BAANEE of JAP JI, Guru Nanak Dev Ji writes about the everlasting nature of God.   
 
-‘Aad sach jugaad sach haibhee sach Nanak hosee bhee sach’
+    ‘Aad sach jugaad sach haibhee sach Nanak hosee bhee sach’
 
 Gur Nanak Dev Ji says that whatever he has written about God in ‘Beej mantra’ and ‘MOOL MANTRA’ is true from the time the universe was not created, it is true since  time started in the form of ‘Yugas’, it is true now at the present and it will remain true untill  time and space exists. It is thus a universal truth.
 
 After this, the BAANEE of JAP JI starts.
 
-
-
- 
-
-JAP JI SAHIB
+# JAP JI SAHIB
 
  Jap Ji Sahib written by Guru Nanak Dev Ji comprises of 38 Paurees and one Saloke. Pauree means a number of steps like the steps of a ladder. Jap Ji Sahib is thus a ladder to reach the abode of God, the Sach Khand, an area ruled by the Truth. Guru Nanak Dev Ji wanted his Sikhs to rise to ethic heights to get themselves identified with God. He does this step by sep. At first Guru Nanak Dev Ji describes God and then delivers his sermons to inculcate in us good qualities to enable us  to be one like God. In between Guru Nanak Dev Ji is mystified by God’s powers and in a state of trance goes on singing about the greatness of God.
 
