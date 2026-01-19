@@ -71,3 +71,5 @@ Although it is important to make your mind as the abode of God, equally importan
 
 **WAHEGURU JI KA KHALSA &nbsp;&nbsp;&nbsp;&nbsp; WAHEGURU JI KI FATEH**
 </div>
+
+{{< statcounter >}}

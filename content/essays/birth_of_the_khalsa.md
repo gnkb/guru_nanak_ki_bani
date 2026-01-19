@@ -89,3 +89,5 @@ He demanded another head, then another, then another, then another and Bhai Himm
 
 **WAHEGURU JI KA KHALSA &nbsp;&nbsp;&nbsp;&nbsp; WAHEGURU JI KI FATEH**
 </div>
+
+{{< statcounter >}}

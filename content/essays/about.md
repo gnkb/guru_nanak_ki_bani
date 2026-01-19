@@ -26,3 +26,5 @@ The articles on this site are written by Sujan Singh (1930-2007). He was a Botan
 </div>
 
 He was dedicated to Sikhism, and lived by its tenets. His passion for science and his dedication to Sikhi lead him to many years of research on the intersection of the two. The results of that research are these series of articles you can find on this website.
+
+{{< statcounter >}}

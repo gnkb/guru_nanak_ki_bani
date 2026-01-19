@@ -72,3 +72,5 @@ Sikhism does not believe in the concept of incarnation of God. God does not come
 
 **WAHEGURU JI KA KHALSA &nbsp;&nbsp;&nbsp;&nbsp; WAHEGURU JI KI FATEH**
 </div>
+
+{{< statcounter >}}

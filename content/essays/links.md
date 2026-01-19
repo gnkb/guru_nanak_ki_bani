@@ -26,3 +26,5 @@ Here are some great links that we recommend:
 <a href="https://www.sikhnet.com/">SikhNet</a>
 
 <a href="https://www.sikhiwiki.org/index.php/Sikh_websites%20">SikhWiki</a>
+
+{{< statcounter >}}

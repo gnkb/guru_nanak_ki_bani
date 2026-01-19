@@ -76,3 +76,5 @@ All the wishes of both the boy and the girl have been fulfilled. All the near an
 
 **WAHEGURU JI KA KHALSA &nbsp;&nbsp;&nbsp;&nbsp; WAHEGURU JI KI FATEH**
 </div>
+
+{{< statcounter >}}

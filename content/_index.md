@@ -16,3 +16,5 @@ Sikhs are guided by Guru Bani of Sri Guru Granth Saheb Ji deified as the guru of
 The selection of saints by guru ji for inclusion of their bani in Sri Guru Granth Saheb Ji was done solely on the basis that the basic principles in their bani were same as those in the bani of all the gurus. Sikh tenets do not believe in idol worship as well as the worship of tombs, mausoleums, trees, animals, gods and goddesses.  The leaders of some religious sects, however, tend to interpret guru bani in a way that suits their interests overlooking the basic principles of Sikhism. 
 
 This website is created to interpret guru bani in right perspective for the guidance of Sikh youth as well as members of other communities who believe in Sikh tenets. 
+
+{{< statcounter >}}

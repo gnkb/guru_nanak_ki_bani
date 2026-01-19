@@ -84,3 +84,5 @@ Marriage in Sikhism, leading a family life according to the teachings of Sri Gur
 
 **WAHEGURU JI KA KHALSA &nbsp;&nbsp;&nbsp;&nbsp; WAHEGURU JI KI FATEH**
 </div>
+
+{{< statcounter >}}
