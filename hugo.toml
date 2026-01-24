@@ -1,4 +1,5 @@
 baseURL = "https://gnkb.github.io/guru_nanak_ki_bani/"
+# baseURL = "http://localhost:1313/guru_nanak_ki_bani/"
 languageCode = "en-gb"
 title = "Essays on Sikhism"
 theme = "hugo-book"
