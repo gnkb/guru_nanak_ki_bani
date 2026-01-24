@@ -4,6 +4,8 @@ baseURL = "https://www.gurunanakkibani.com/"
 languageCode = "en-gb"
 title = "Essays on Sikhism"
 theme = "hugo-book"
+canonifyURLs = true
+uglyURLs = false
 
 enableRobotsTXT = true
 
