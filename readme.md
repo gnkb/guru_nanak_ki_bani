@@ -98,7 +98,7 @@ draft: false
 ```
 
 ### Shortcodes:
-Hugo supports shortcodes for reusable content snippets. This site uses `{{< statcounter >}}` for analytics.
+Hugo supports shortcodes for reusable content snippets. This site uses www.statcounter.com for analytics, provided by StatCounter, and a contact form supplied by Elfsite.
 
 For more information, visit the official Hugo documentation: https://gohugo.io/
 
@@ -116,7 +116,7 @@ gnkb/
 ├── layouts/            # Custom layout templates
 ├── public/             # Generated static site (auto-created)
 ├── resources/          # Processed assets (auto-created)
-├── static/             # Static assets (images, CSS, JS)
+├── static/             # Static assets (images, CSS, JS), CNAME file for custom domain configuration
 │   └── images/         # Site images
 └── themes/             # Hugo themes
     └── hugo-book/      # The hugo-book theme
